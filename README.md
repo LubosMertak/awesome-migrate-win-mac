@@ -39,6 +39,7 @@
    - [Magnet](https://apps.apple.com/cz/app/magnet/id441258766?l=cs&mt=12) - správa rozložení oken pomocí přichytávání ke hraně plochy
    - [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/about/) - šifrování disků a souborů
    - [Wineskin Winery](https://sourceforge.net/projects/wineskin/) - umožňuje konvert aplikace x86 (.exe) pro MAC
+   - [CopyLess2](https://copyless.net/) - clipboard manažer, lze nastavit podobně jako manager na Windows. Například na Control+Command+V zobrazit, při klikutí instantně pastenout a poté opět minimalizovat okno.
 
 ## DEV NÁSTROJE
 
