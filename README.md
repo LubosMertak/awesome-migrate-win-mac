@@ -38,9 +38,7 @@
    - [iTerm](https://iterm2.com/) - nejlepší terminál pro MAC
    - [Magnet](https://apps.apple.com/cz/app/magnet/id441258766?l=cs&mt=12) - správa rozložení oken pomocí přichytávání ke hraně plochy
    - [Wineskin Winery](https://sourceforge.net/projects/wineskin/) - umožňuje konvert aplikace x86 (.exe) pro MAC
-   - [Silicon](https://github.com/DigiDNA/Silicon) - Kontrola nainstalovaných aplikací zda podporují Apple Silicon nebo jen Intel čipy a jsou tudíž překládány pomocí Rosetty
-   - [Maccy](https://maccy.app/) - výborný clipboard manažer, který neukládá data z předem definovaných aplikací, ukládá i obrázky.
-   - [iBoysoft MagicMenu - Right Click Enhancer](https://iboysoft.com/magic-menu/) - rozšíření, které dovoluje vytvořit soubory dle přípony (můžete si přidat jaké chcete) a také urychlení přístupu do zvolených složek (opět dle definice uživatele)
+   - [CopyLess2](https://copyless.net/) - clipboard manažer, lze nastavit podobně jako manager na Windows. Například na Control+Command+V zobrazit, při klikutí instantně pastenout a poté opět minimalizovat okno.
 
 ## DEV NÁSTROJE
    - [VSCode](https://code.visualstudio.com/) - za mě nejlepší textový editor. Pokud si ho člověk vymazlí, tak se z něj dá udělat prakticky IDE
