@@ -2,18 +2,18 @@
         <img width="300" height="auto" src="./assets/awesome_mac.svg">
         <h1>AWESOME migrate Windows to MacOS</h1>
         <p>
-        Seznam utilit a aplikací, které usnadní přechod z Windows na MacOS
+        Seznam utilit a aplikací, které usnadní přechod z Windows na MacOS a nejen to.
         </p>
         Postupně budu doplňovat dle jednotlivých sekcí.
 </div>
 
-## OBSAH
 - [SYSTÉMOVÉ UTILITY](#systémové-utility)
 - [DEV NÁSTROJE](#dev-nástroje)
 - [PRODUKTIVITA](#produktivita)
 - [HACK MacOS](#hack-macos)
 - [PRÁCE](#práce)
 - [ZABEZPEČENÍ](#zabezpečení)
+- [SÍŤOVÉ NÁSTROJE](#síťové-nástroje)
 
 ## SYSTÉMOVÉ UTILITY
    - [BetterTouchTool](https://folivora.ai/ "Test") - Nastavení/úprava chování vstupních zařízení pro aplikace. Například jde přemapovat chování gest na trackpadu pro různé aplikace.
@@ -37,16 +37,37 @@
    - [EasyRes](http://easyresapp.com/) - rychlé přepínání zobrazení. Umožňuje přepnutí i na non-retina rozlišení.
    - [iTerm](https://iterm2.com/) - nejlepší terminál pro MAC
    - [Magnet](https://apps.apple.com/cz/app/magnet/id441258766?l=cs&mt=12) - správa rozložení oken pomocí přichytávání ke hraně plochy
-   - [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/about/) - šifrování disků a souborů
    - [Wineskin Winery](https://sourceforge.net/projects/wineskin/) - umožňuje konvert aplikace x86 (.exe) pro MAC
+   - [Silicon](https://github.com/DigiDNA/Silicon) - Kontrola nainstalovaných aplikací zda podporují Apple Silicon nebo jen Intel čipy a jsou tudíž překládány pomocí Rosetty
+   - [Maccy](https://maccy.app/) - výborný clipboard manažer, který neukládá data z předem definovaných aplikací, ukládá i obrázky.
+   - [iBoysoft MagicMenu - Right Click Enhancer](https://iboysoft.com/magic-menu/) - rozšíření, které dovoluje vytvořit soubory dle přípony (můžete si přidat jaké chcete) a také urychlení přístupu do zvolených složek (opět dle definice uživatele)
 
 ## DEV NÁSTROJE
+   - [VSCode](https://code.visualstudio.com/) - za mě nejlepší textový editor. Pokud si ho člověk vymazlí, tak se z něj dá udělat prakticky IDE
+   - [Postman](https://www.postman.com/) - testování API (alternativa k Postmanu je třeba Insomnia nebo plugin pro VSCode Thunder Client)
+   - [Dash](https://kapeli.com/dash) - offline docsety pro různé jazyky. Hodí se pro lidi, kteří dělají v terénu a nemají třeba stálý přístup k intrnetu.
+   - [DevUtils](https://devutils.app/) - sada nástrojů pro vývojáře. Spousta těch věcí jde vyřešit například přes konzole v prohlížečích nebo pomocí pluginů v editorech/IDE, ale proč to nemít na jednom místě.
+   - [Expressions](https://www.apptorium.com/expressions) | [App Store](https://apps.apple.com/us/app/expressions/id913158085?mt=12) - aplikace určená pro testování a práci s regexem
+   - [SnippetsLab](https://www.renfei.org/snippets-lab/) - systém pro ukládání útržků kódu a textů
+   - [Webp Converter - AnyWebP]() - Převod formátů JPG/PNG do Webp a zpět
 
 ## PRODUKTIVITA
+   - [Workspaces](https://www.apptorium.com/workspaces) - neskutečné zrychlení práce díky nadefinování pracovního prostoru, který po aktivaci otevře zvolené programy, složky, webové stránky, multimédia atpd. Výborné pro lidi, kteří mají svůj stack aplikací, které pravidělně používá. Stačí nadefinovat co se má otevírat a naříklad po restartu stačí spustit jen jedním kliknutím daný workspace.
 
 ## HACK MacOS
 
 ## PRÁCE
 
 ## ZABEZPEČENÍ
+   - [1Password](https://1password.com/) - multiplatformní nástroj pro správu hesel. Za mě asi jeden z nejlpších, ale placený, což může být pro někoho výhoda.
+   - [WireGuard](https://www.wireguard.com/) - nástroj pro šifrovanou komunikaci - tunely VPN
+   - [Cryptomator](https://cryptomator.org/) - výborný nástroj, který dokáže šifrovat kontejnery přímo v cloudu. Navíc zdarma
+   - [Authy](https://authy.com/) - pro lidi používající 2FA jedna z nejlepších voleb, protože má online zálohy a má i mobilní aplikace jak pro iOS, tak i pro Android
+   - [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/about/) - šifrování disků, souborů a vytváření skrytých kontejnerů
 
+## SÍŤOVÉ NÁSTROJE
+   - [Wireshark](https://www.wireshark.org/) - asi jeden z nejlepších programů pro analyzovaní provozu sítě
+   - [Zenmap](https://nmap.org/zenmap/) - výborný nástroj na skenování (penetrační testy) sítí, pomocí kterého dokážete získat o cíly mraky informací z jednoho místa. Troufám si tvrdit, že je to jeden z nejpoužívanějších nástrojů tohoto typu.
+   - [Angry IP Scanner](https://angryip.org/) - pokud potřebujete jednoduše zjistit připojené zažízení na síti, ke které jste připojení, není jednodušší cesta.
+   - [WiFi Explorer](https://www.intuitibits.com/) - další nástroj pro analýzu WiFi a příadných problémů s pokrytím
+   - [NetSpot](https://www.netspotapp.com/) - hodně slušný nástroj na analýzu pokrytí WiFi sítí a problémy s kvalitou a rychlostí.
