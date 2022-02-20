@@ -49,7 +49,7 @@
    - [Postman](https://www.postman.com/) - testování API (alternativa k Postmanu je třeba Insomnia nebo plugin pro VSCode Thunder Client)
    - [Dash](https://kapeli.com/dash) - offline docsety pro různé jazyky. Hodí se pro lidi, kteří dělají v terénu a nemají třeba stálý přístup k intrnetu.
    - [DevUtils](https://devutils.app/) - sada nástrojů pro vývojáře. Spousta těch věcí jde vyřešit například přes konzole v prohlížečích nebo pomocí pluginů v editorech/IDE, ale proč to nemít na jednom místě.
-   - [Expressions](https://www.apptorium.com/expressions) | [App Store](https://apps.apple.com/us/app/expressions/id913158085?mt=12) - aplikace určená pro testování a práci s regexem
+   - [Expressions](https://www.apptorium.com/expressions) - [App Store](https://apps.apple.com/us/app/expressions/id913158085?mt=12) - aplikace určená pro testování a práci s regexem
    - [SnippetsLab](https://www.renfei.org/snippets-lab/) - systém pro ukládání útržků kódu a textů
    - [Webp Converter - AnyWebP]() - Převod formátů JPG/PNG do Webp a zpět
 
