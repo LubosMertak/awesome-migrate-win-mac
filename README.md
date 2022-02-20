@@ -42,6 +42,7 @@
    - [Maccy](https://maccy.app/) - výborný clipboard manažer, který neukládá data z předem definovaných aplikací, ukládá i obrázky.
    - [iBoysoft MagicMenu - Right Click Enhancer](https://iboysoft.com/magic-menu/) - rozšíření, které dovoluje vytvořit soubory dle přípony (můžete si přidat jaké chcete) a také urychlení přístupu do zvolených složek (opět dle definice uživatele)
    - [CopyLess2](https://copyless.net/) - clipboard manažer, lze nastavit podobně jako manager na Windows. Například na Control+Command+V zobrazit, při klikutí instantně pastenout a poté opět minimalizovat okno.
+   - [uBar](https://brawersoftware.com/products/ubar) - náhražka DOCKU, podporuje preview windows u jednotlivých programů, umí se různě PINovat atd.
 
 ## DEV NÁSTROJE
    - [VSCode](https://code.visualstudio.com/) - za mě nejlepší textový editor. Pokud si ho člověk vymazlí, tak se z něj dá udělat prakticky IDE
