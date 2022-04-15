@@ -14,6 +14,7 @@
 - [PRÁCE](#práce)
 - [ZABEZPEČENÍ](#zabezpečení)
 - [SÍŤOVÉ NÁSTROJE](#síťové-nástroje)
+- [VIRTUALIZACE](#virtualizace)
 
 ## SYSTÉMOVÉ UTILITY
    - [BetterTouchTool](https://folivora.ai/ "Test") - Nastavení/úprava chování vstupních zařízení pro aplikace. Například jde přemapovat chování gest na trackpadu pro různé aplikace.
@@ -73,3 +74,7 @@
    - [Angry IP Scanner](https://angryip.org/) - pokud potřebujete jednoduše zjistit připojené zažízení na síti, ke které jste připojení, není jednodušší cesta.
    - [WiFi Explorer](https://www.intuitibits.com/) - další nástroj pro analýzu WiFi a příadných problémů s pokrytím
    - [NetSpot](https://www.netspotapp.com/) - hodně slušný nástroj na analýzu pokrytí WiFi sítí a problémy s kvalitou a rychlostí.
+
+## VIRTUALIZACE
+   - [UTM](https://mac.getutm.app/) - Nástroj pro vytváření virtualizovaných OS zdarma (alternativa k Parallelsu) - [GithHub](https://github.com/utmapp/UTM/releases).
+   - [Parallels® Desktop](https://www.parallels.com/eu/products/desktop/) - Výborný nástroj pro emulaci OS na Apple M1. Tento nástroj je zpoplatněný.
